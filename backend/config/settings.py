@@ -54,9 +54,9 @@ INSTALLED_APPS = [
     'corsheaders',
     
     # Local apps
-    #'learning_modules',
-    #'user_progress',
-    #'portfolio_simulator',
+    'learning_modules',
+    'user_progress',
+    'portfolio_simulator',
 ]
 
 MIDDLEWARE = [
